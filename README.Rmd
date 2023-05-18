@@ -22,3 +22,13 @@ The goal of myfarspackage is to show my first built package!!!
 ## Installation
 
 You can install the development version of myfarspackage from [GitHub](https://github.com/) with:
+
+
+
+Simulating Digital Logic Gates
+
+Travis Badge : https://travis-ci.com/Bemorc/farsdata.svg?branch=master
+
+For more information/ tutorial check the Markdown files.
+
+Just dropped a tutorial on Categorical data analyisis with rgates : https://github.com/Bemorc/Categorical-Data-Analysis-with-rgates
