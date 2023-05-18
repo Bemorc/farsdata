@@ -1,7 +1,7 @@
 ---
 title: "rgates vinette"
-author: "Muhammad Ezzat"
-date: "3/12/2020"
+author: "Bemorc"
+date: "17/05/2023"
 output:
   word_document: default
   html_document: default
@@ -202,8 +202,8 @@ You probably noticed that you can chain many gates together, here is an example
 print(implies(and(df$y,xor(df$x,on(4))),null(4)))
 ```
 ### Warnings
-All of these functions throw errors for non logical type input and for inputs not equal in length. This package is compeletly safe to use as it passed the TRAVIS CL test & RStudio test. The package is under the CC0 license which means anybody can use it for free. If you have any issue contact the maintainer : muhammadezzat316@gmail.com.
-Github repo : https://github.com/MuhammadEzzatHBK/rgates2 . 
+All of these functions throw errors for non logical type input and for inputs not equal in length. This package is compeletly safe to use as it passed the TRAVIS CL test & RStudio test. The package is under the CC0 license which means anybody can use it for free. If you have any issue contact the maintainer : brendamoralescalzada@hotmail.com
+Github repo : https://github.com/Bemoc/farsdata . 
 
 
 
